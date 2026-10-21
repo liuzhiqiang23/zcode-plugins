@@ -790,9 +790,7 @@
     },
     {
       "name": "blender",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "Blender",
       "displayName_i18n": {
         "en": "Blender",
@@ -813,9 +811,7 @@
     },
     {
       "name": "excalidraw",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "Excalidraw",
       "displayName_i18n": {
         "en": "Excalidraw",
@@ -836,9 +832,7 @@
     },
     {
       "name": "openpencil",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "OpenPencil",
       "displayName_i18n": {
         "en": "OpenPencil",
@@ -861,9 +855,7 @@
       "name": "photocraft",
       "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/photocraft/icon.png",
       "source": "./external_plugins/photocraft",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "PhotoCraft",
       "displayName_i18n": {
         "en": "PhotoCraft",
@@ -890,9 +882,7 @@
       "name": "vectorcraft",
       "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/vectorcraft/icon.png",
       "source": "./external_plugins/vectorcraft",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "VectorCraft",
       "displayName_i18n": {
         "en": "VectorCraft",
@@ -919,9 +909,7 @@
       "name": "pdfcraft",
       "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/pdfcraft/icon.png",
       "source": "./external_plugins/pdfcraft",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "PdfCraft",
       "displayName_i18n": {
         "en": "PdfCraft",
@@ -948,9 +936,7 @@
       "name": "designcraft",
       "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/designcraft/icon.png",
       "source": "./external_plugins/designcraft",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "DesignCraft",
       "displayName_i18n": {
         "en": "DesignCraft",
@@ -977,9 +963,7 @@
       "name": "wordcraft",
       "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/wordcraft/icon.png",
       "source": "./external_plugins/wordcraft",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "WordCraft",
       "displayName_i18n": {
         "en": "WordCraft",
@@ -1006,9 +990,7 @@
       "name": "gridcraft",
       "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/gridcraft/icon.png",
       "source": "./external_plugins/gridcraft",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "GridCraft",
       "displayName_i18n": {
         "en": "GridCraft",
@@ -1035,9 +1017,7 @@
       "name": "deckcraft",
       "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/deckcraft/icon.png",
       "source": "./external_plugins/deckcraft",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "DeckCraft",
       "displayName_i18n": {
         "en": "DeckCraft",
@@ -1064,9 +1044,7 @@
       "name": "cadcraft",
       "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/cadcraft/icon.png",
       "source": "./external_plugins/cadcraft",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "CADCraft",
       "displayName_i18n": {
         "en": "CADCraft",
@@ -1093,9 +1071,7 @@
       "name": "soundcraft",
       "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/soundcraft/icon.png",
       "source": "./external_plugins/soundcraft",
-      "componentTypes": [
-        "ui"
-      ],
+      "componentTypes": ["ui"],
       "displayName": "SoundCraft",
       "displayName_i18n": {
         "en": "SoundCraft",
@@ -1310,13 +1286,13 @@
     },
     {
       "name": "ruic-card",
-      "source": "./plugins/ruic-card",
+      "source": "./external_plugins/ruic-card",
       "description": "Holographic collectible-card generator: layered artwork + Blender + Three.js, in two routes - paint the four layers from a description or reference image, or derive them from a photo you already have (rembg cutout, optional watermark removal, animation render and MP4 / WeChat-sized GIF deliverables). Outputs an interactive parallax card website plus an editable card.blend project.",
       "description_i18n": {
         "en": "Holographic collectible-card generator: layered artwork + Blender + Three.js, in two routes - paint the four layers from a description or reference image, or derive them from a photo you already have (rembg cutout, optional watermark removal, animation render and MP4 / WeChat-sized GIF deliverables). Outputs an interactive parallax card website plus an editable card.blend project.",
         "zh-CN": "全息闪卡生成器：分层画稿 + Blender + Three.js，两条路线——用描述或参考图绘制四层图，或直接把已有照片切成四层（rembg 抠图、可选去水印，附动画渲染与 MP4 / 微信动图交付）。产出可交互的 3D 视差闪卡网页与可编辑的 card.blend 工程。"
       },
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "liuzhiqiang23",
         "url": "https://github.com/liuzhiqiang23"
@@ -1337,4 +1313,4 @@
       ]
     }
   ]
-}\n
+}

@@ -161,7 +161,7 @@ flowchart LR
 ## 📁 目录一览
 
 ```
-plugins/ruic-card/                 # 插件根：清单、许可、双语文档、演示媒体
+external_plugins/ruic-card/                 # 插件根：清单、许可、双语文档、演示媒体
 ├── .zcode-plugin/plugin.json
 ├── assets/                        # README 用的演示 GIF / MP4
 └── skills/
